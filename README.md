@@ -33,4 +33,5 @@ Cloud Infrastructure
 📫 Connect With Me
 Portfolio: https://my-portfolio-a-ideveloper.vercel.app
 LinkedIn: Your LinkedIn URL
-Email: your@email.com
+Email: rajthakur.aidev@gmail.com/rajthakur@aurbient.com
+
