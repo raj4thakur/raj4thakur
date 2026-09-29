@@ -15,24 +15,28 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->Hi, I'm Raj Thakur 👋
 🚀 About Me
-Founder & CEO at Aurbient Technologies
-AI Engineer & Automation Consultant
-Building AI agents, n8n workflows, and industrial automation solutions
-🛠️ Tech Stack
-Python
-JavaScript
-n8n
-FastAPI
-PostgreSQL
-Docker
-AI Agents
-🌱 Currently Learning
-Advanced AI Agent Systems
-Industrial Automation
+AI Engineer & Automation Consultant,
+Building AI agents, n8n workflows, and industrial automation solutions 
+
+🛠️ Tech Stack :
+Python,
+JavaScript,
+n8n,
+FastAPI,
+PostgreSQL,
+Docker,
+AI Agents 
+
+🌱 Currently Learning:
+Advanced AI Agent Systems,
+Industrial Automation,
 Cloud Infrastructure
+
 📫 Connect With Me
 Portfolio: https://my-portfolio-a-ideveloper.vercel.app
+
 LinkedIn: Your LinkedIn URL
+
 Email: rajthakur.aidev@gmail.com/rajthakur@aurbient.com
 
 
@@ -193,12 +197,6 @@ Delivery
 and identify potential problems **before they become operational problems.**
 
 ---
-
-# 🏢 Aurbient Technologies
-
-### Building intelligent technology systems for modern businesses.
-
-At **Aurbient Technologies**, I'm exploring how AI, automation and software engineering can be combined to build practical business systems.
 
 ### Areas of work
 
