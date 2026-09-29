@@ -16,9 +16,7 @@ Here are some ideas to get you started:
 -->Hi, I'm Raj Thakur 👋
 🚀 About Me
 Founder & CEO at Aurbient Technologies
-
 AI Engineer & Automation Consultant
-
 Building AI agents, n8n workflows, and industrial automation solutions
 🛠️ Tech Stack
 Python
